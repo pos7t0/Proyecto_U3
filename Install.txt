@@ -1,0 +1,3 @@
+-Este programa esta en windows, asi que deberia estar en windows antes de compilar,
+-El programa esta en c++ por lo que el dispositivo deberia utilizar un compilador
+compatible con c++.
