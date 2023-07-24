@@ -328,7 +328,6 @@ int main(){
             //se recargan las funciones hacia otro arreglo
             if(w==1){
                 swapall(arrOrdenado1,prueba1);
-                cout<< prueba1.size()<<endl;
             }
             if(w==2){
                 swapall(arrDesordenado1,prueba1);
@@ -433,7 +432,6 @@ int main(){
         for(int z=1;z<=7;z++){
             if(w==1){
                 swapall(arrOrdenado2,prueba2);
-                cout<< prueba2.size()<<endl;
             }
             if(w==2){
                 swapall(arrDesordenado2,prueba2);
@@ -536,7 +534,6 @@ int main(){
         for(int z=1;z<=7;z++){
             if(w==1){
                 swapall(arrOrdenado3,prueba3);
-                cout<< prueba3.size()<<endl;
             }
             if(w==2){
                 swapall(arrDesordenado3,prueba3);
